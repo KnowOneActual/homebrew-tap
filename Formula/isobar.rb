@@ -1,4 +1,6 @@
 class Isobar < Formula
+  include Language::Python::Virtualenv
+
   desc "Terminal weather tool focused on what it FEELS LIKE outside"
   homepage "https://github.com/KnowOneActual/isobar-cli"
   url "https://files.pythonhosted.org/packages/15/18/06bf59f59c673bd93d747ab73074353d718d52be6a5d695813bbef8f6d26/isobar_cli-1.0.0.tar.gz"
