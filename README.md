@@ -1,6 +1,6 @@
 # KnowOneActual Homebrew Tap
 
-This is a custom Homebrew tap for tools, scripts, and applications built by KnowOneActual. 
+This is a custom Homebrew tap for tools, scripts, and applications. 
 
 ## How to Use This Tap
 
